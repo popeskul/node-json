@@ -1,0 +1,37 @@
+{
+  "name": "fs-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popeskul/node-fs-manipulation.git"
+  },
+  "author": "popeskul pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popeskul/node-fs-manipulation/issues"
+  },
+  "homepage": "https://github.com/popeskul/node-fs-manipulation#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "request": "^2.88.2"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
