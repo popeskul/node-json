@@ -6,7 +6,7 @@ const cars = [];
 
 const startContentBlock = '<div id="searchResults">';
 const endContentBlock =
-  '<div class="infiltrate fl-l popup-filter" id="leftFilter">';
+  '<div class="infiltrate fl-l git remote add origin git@github.com:popeskul/node-json.gitpopup-filter" id="leftFilter">';
 
 function generateDate(date) {
   const newDate = new Date(date);
